@@ -6,6 +6,8 @@ main.cpp  - test file for integers elements of the queue, you can change the typ
 Queue.h  - Queue implementation. for generic interface, template is used 
 
 * How to run - linux CL
- g++ -o out main.cpp 
- ./out
+
+  g++ -o out main.cpp 
+
+   ./out
 
